@@ -22,5 +22,5 @@ To run the Pokemon Battle app locally, follow these steps:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/pokemon-battle.git
+git clone https://github.com/sukhdeep/pokemon-battle.git
 cd pokemon-battle
